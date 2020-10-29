@@ -1,4 +1,15 @@
 ### Hi there 👋
+## Lets Talk ☕
+
+  <a href="https://www.linkedin.com/in/affanak/">
+    <img align="left" width="84px" src="https://cdn.svgporn.com/logos/linkedin.svg" />
+  </a>
+  <a href="https://twitter.com/affanak43">
+    <img align="left" width="26px" src="https://cdn.svgporn.com/logos/twitter.svg" />
+  </a>
+  <a href="mailto:affankhan627@gmail.com">
+    <img align="left" width="26px" src="https://cdn.svgporn.com/logos/google-gmail.svg" />
+  </a>
 
 <!--
 **affankhan43/affankhan43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

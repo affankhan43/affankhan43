@@ -1,10 +1,10 @@
 ### Hi there 👋
 ## Lets Talk ☕
 
-  <a href="https://www.linkedin.com/in/affanak/">
+  <a href="https://www.linkedin.com/in/affanak/" target="__blank">
     <img align="left" width="84px" src="https://cdn.svgporn.com/logos/linkedin.svg" />
   </a>
-  <a href="https://twitter.com/affanak43">
+  <a href="https://twitter.com/affanak43" target="__blank">
     <img align="left" width="26px" src="https://cdn.svgporn.com/logos/twitter.svg" />
   </a>
   <a href="mailto:affankhan627@gmail.com">

@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Affan Ahmed Khan</h1>
-<h3 align="center">A passionate blockchain / web3 engineer</h3>
+<h1>Hi 👋, I'm Affan Ahmed Khan</h1>
+<h3>A passionate blockchain / web3 engineer</h3>
 
+<h3 align="left">Connect with me:</h3>
   <a href="https://www.linkedin.com/in/affanak/" target="__blank">
     <img align="left" width="84px" src="https://cdn.svgporn.com/logos/linkedin.svg" />
   </a>

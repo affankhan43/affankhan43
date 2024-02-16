@@ -7,9 +7,10 @@
   <a href="https://twitter.com/affanak43" target="__blank">
     <img align="left" width="26px" src="https://cdn.svgporn.com/logos/twitter.svg" />
   </a>
-  <a href="https://www.instagram.com/affan.ak43/" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salarzaizubair" height="30" width="40" />
+  <a href="https://www.instagram.com/affan.ak43/" target="__blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="affan" width="26px" />
   </a>
-  <a href="https://dev.to/affankhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zubairsalarzai" height="30" width="40" /></a>
+  <a href="https://dev.to/affankhan" target="blank">
+    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="affankhan" width="26px" /></a>
   <a href="mailto:affankhan627@gmail.com">
     <img align="left" width="26px" src="https://cdn.svgporn.com/logos/google-gmail.svg" />
   </a>

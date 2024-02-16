@@ -1,5 +1,5 @@
-### Hi there 👋
-## Lets Talk ☕
+<h1 align="center">Hi 👋, I'm Muhammad Zubair</h1>
+<h3 align="center">A passionate blockchain / web3 engineer</h3>
 
   <a href="https://www.linkedin.com/in/affanak/" target="__blank">
     <img align="left" width="84px" src="https://cdn.svgporn.com/logos/linkedin.svg" />
@@ -10,7 +10,8 @@
   <a href="https://www.instagram.com/affan.ak43/" target="__blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="affan" width="26px" />
   </a>
   <a href="https://dev.to/affankhan" target="blank">
-    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="affankhan" width="26px" /></a>
+    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="affankhan" width="26px" />
+  </a>
   <a href="mailto:affankhan627@gmail.com">
     <img align="left" width="26px" src="https://cdn.svgporn.com/logos/google-gmail.svg" />
   </a>

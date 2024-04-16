@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Blockchain / Web3 Engineer
 --------------------------
 
-* 🌍  I'm based in Berlin, Germany
+* 🌍  I'm based in Berlin, Germany 🇩🇪
 * 🖥️  See my portfolio at [Affan Khan](http://affankhan.co)
 * ✉️  You can contact me at [affankhan627@gmail.com](mailto:affankhan627@gmail.com)
 * 🚀  I'm currently working on [Artory](http://artory.com)
